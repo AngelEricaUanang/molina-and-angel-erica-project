@@ -24,7 +24,6 @@ class Movie {
 }
 
 $movie = new Movie();
-//Note:  The instruction to use the setProduct method with a name and price is confusing and seems like an error from the original instructions. I am setting movie details instead.
 $movie->setMovie("The Shawshank Redemption", "Frank Darabont", "Drama", 1994, 9.3);
 print($movie->getMovieInfo());
 
