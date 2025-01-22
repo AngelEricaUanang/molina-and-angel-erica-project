@@ -5,6 +5,7 @@ This report details the implementation and functionality of the provided PHP cod
 Activity 1: The  Product  Class
 
 ![image](https://github.com/user-attachments/assets/606ce73e-6d8f-4e11-aef4-cd66fa7aa1b5)
+![image](https://github.com/user-attachments/assets/fcd3fc9d-ff78-4f0a-a9bf-0daa43925685)
 
 Activity 1 introduces a  Product  class designed to manage product information.  The class encapsulates five key attributes:  name ,  description ,  price ,  category , and  stock .  These attributes are defined as public properties, allowing direct access.
  
@@ -16,6 +17,7 @@ An instance of the  Product  class is created, representing a "Laptop" product. 
 Activity 2: The  Movie  Class
 
 ![image](https://github.com/user-attachments/assets/6ce9b690-2b35-4982-a42e-fb5c7c6515e9)
+![image](https://github.com/user-attachments/assets/06e32367-045b-46f9-8492-5ec447712bc7)
 
 Activity 2 mirrors the structure of Activity 1 but focuses on a  Movie  class.  This class manages movie-related data, including  title ,  director ,  genre ,  year , and  rating .  Similar to the  Product  class, these attributes are public properties.
 
